@@ -1,0 +1,55 @@
+body{
+  background: url(table.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  background-size: cover;
+  font-family: 'Major Mono Display', monospace;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.logoImg{
+  max-width: 300px;
+  height: 250px;;
+}
+header{
+  background-color: black;
+}
+.topContainer{
+  background-color: black;
+  color: white;
+  padding: 6px;
+  padding-left: 16px;
+
+  padding-right: 16px;
+}
+.logoContainer{
+  margin-top: 90px;
+}
+
+.imageContainer{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.thumb_image{
+  max-width: 100%;
+}
+.p_box{
+  margin-top: 90px;
+  background-color: white;
+  padding: 9px;
+  padding-top: 21px;
+}
+
+footer{
+  margin-top: 60px;
+  background-color: black;
+  color: white;
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+.pLabel{
+  background-color: white;
+  margin-top: 4px;
+}
+.fbook{
+  width: 24px;
+}
